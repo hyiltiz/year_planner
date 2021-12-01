@@ -94,5 +94,5 @@ the planner for the year 2022 looks like:
 | 1| 26 27 28 29 30 31    |          |          |
 ```
 
-As a bonus, if you are a [org][https://orgmode.org/] user, you can take
-advantage of everything that org provides for this calendar.
+As a bonus, if you are a [orgmode](https://orgmode.org/ "orgmode") user, you can
+take advantage of everything that org provides for this calendar.
