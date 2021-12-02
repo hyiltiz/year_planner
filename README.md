@@ -12,8 +12,8 @@ Achievements start with good planning. This is a weekly planner.
 1. Print it and stick it on your fridge. Or, if you want to reduce your carbon footprint, save it to your Desktop / mobile device where you can see it without any extra effort.
 1. Keep track of your progress by checking if you are lagging behind your plans at least once a week.
 1. No plan works unless it fits the circumstances. Adjust your plans as needed. 
-  - If you need to make big adjustments, simply do so then re-print. Then commit to your new plan.
-  - Try not to make too frequent adjustments.
+    - If you need to make big adjustments, simply do so then re-print. Then commit to your new plan.
+    - Try not to make too frequent adjustments.
 
 
 ``` {org}
