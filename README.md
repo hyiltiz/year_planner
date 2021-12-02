@@ -1,7 +1,20 @@
-This python script creates a concise weekly calendar for any specified
-year. The calendar functionality is provided via BSD calendar `ncal`.
-This script reformats its output to make it less redundant. Here is what
-the planner for the year 2022 looks like:
+## Yearly planner for 2022
+
+Achievements start with good planning. This is a weekly planner. 
+
+### Steps to use
+1. Copy-paste to anywhere (Google Doc, Word, Notes, a piece of paper, Emacs etc.)
+1. Write down your plans for the month in the month row and break it down to each week. 
+1. You can use the comment column to 
+    - mark what you need to be mindful of before the week,
+    - give yourself a satisfaction score after the week, 
+    - or what you learned after the week.
+1. Print it and stick it on your fridge. Or, if you want to reduce your carbon footprint, save it to your Desktop / mobile device where you can see it without any extra effort.
+1. Keep track of your progress by checking if you are lagging behind your plans at least once a week.
+1. No plan works unless it fits the circumstances. Adjust your plans as needed. 
+  - If you need to make big adjustments, simply do so then re-print. Then commit to your new plan.
+  - Try not to make too frequent adjustments.
+
 
 ``` {org}
 | w| Mo Tu We Th Fr Sa Su | Plan     | Comment  |
@@ -93,6 +106,12 @@ the planner for the year 2022 looks like:
 |52| 19 20 21 22 23 24 25 |          |          |
 | 1| 26 27 28 29 30 31    |          |          |
 ```
+
+## How does it work?
+This python script creates a concise weekly calendar for any specified
+year. The calendar functionality is provided via BSD calendar `ncal`.
+This script reformats its output to make it less redundant. Here is what
+the planner for the year 2022 looks like:
 
 As a bonus, if you are a [orgmode](https://orgmode.org/ "orgmode") user, you can
 take advantage of everything that org provides for this calendar.
