@@ -15,7 +15,7 @@ Achievements start with good planning. This is a weekly planner.
     - If you need to make big adjustments, simply do so then re-print. Then commit to your new plan.
     - Try not to make too frequent adjustments.
 
-## Yearly planner for 2022
+## Weekly planner for 2022
 ``` {org}
 | w| Mo Tu We Th Fr Sa Su | Plan     | Comment  |
 |--+----------------------+----------+----------|
