@@ -1,5 +1,3 @@
-## Yearly planner for 2022
-
 Achievements start with good planning. This is a weekly planner. 
 
 ### Steps to use
